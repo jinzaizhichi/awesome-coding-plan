@@ -100,15 +100,15 @@
 | [Factory Droid Pro](https://factory.ai/pricing) |   $20.00  |   	20 million 	Standard Tokens (10 cached tokens = 1 Standard Token)   |    Usage-based    |     ~$48/~6000万 claude-opus-4.6     |  ~2.4   | 
 | [Cursor Pro](https://cursor.com/pricing) |   $20.00  |   $20 of API usage each month<br/>Significantly more included usage when Auto or Composer 2 is selected   |    Usage-based    |      >=$20     |  >=1   | 
 | [Windsurf Pro](https://windsurf.com/pricing) |   $20.00 (2 week free trial)  |   plan includes a usage allowance measured as a daily and weekly budget, daily quota is more than 1/7 of your weekly quota<br/>8-101 messages / day for Premium Model<br/>unlimited SWE-1.5      |   Quota-based     |           |     |         
-| [Augment Code INDIE](https://www.augmentcode.com/pricing) |   $20.00  |   Includes 40,000 credits    |     Usage-based          |  $25.00   |   1.25     |         
-| [Kiro Pro](https://kiro.dev/pricing) |   $20.00  |   1,000 credits<br/>Pay-per-use overage ($0.04/credit)<br/>Get 500 bonus credits usable within 30 days when you first sign up    |    Task-based    |     $40.00      |   2  |     
+| [Kiro Pro](https://kiro.dev/pricing) |   $20.00  |   1,000 credits<br/>Pay-per-use overage ($0.04/credit)<br/>Get 500 bonus credits usable within 30 days when you first sign up    |    Task-based    |     $40.00      |   2  | 
+| [Augment Code INDIE](https://www.augmentcode.com/pricing) |   $20.00  |   Includes 40,000 credits    |     Usage-based          |  $25.00   |   1.25     |             
 | [Qoder Pro](https://qoder.com/pricing) |   $20.00（限时 50% 折扣）  | 2,000 Credits<br/>更多的对话与智能体请求数<br/>为期 2 周的 Pro 试用及 300 Credits   |   Usage-based     |          |     |  
 | [Antigravity Google AI Pro](https://antigravity.google/pricing) |   $19.99（Pixel 手机用户免费试用一年）  |   High, generous quota, refreshed every five hours until weekly limit reached<br/>Higher weekly rate limit<br/>Free: 50 AI credits/d<br/>Google AI Plus $7.99: 200 AI credits/mo<br/>Google AI Pro $19.99: 1,000 AI credits/mo<br/>Google AI Ultra $249.99: 25,000 AI credits/mo    |   Quota-based     |           |     |   
 | [Kilo Pass Starter](https://kilo.ai/pricing) |   $19.00  |  Up to 40% bonus credits |   Usage-based     |     ~$26.6      |    1.4 |   
 | [OpenCode Go](https://opencode.ai/go) |   $10.00 (首月 $5)  | $12.00/5h<br/>$30.00/w<br/>$60.00/mo<br/>包含 GLM-5.1, GLM-5, Kimi K2.5, MiMo-V2-Pro, MiMo-V2-Omni, MiniMax M2.5 和 MiniMax M2.7 | Quota-based | $60.00 | 6 |
+| [Trae Pro](https://www.trae.ai/pricing) |   $10.00  |   $20 Basic usage + Bonus usage<br/>Unlimited Autocomplete<br/>Free for 7 days.     |     Usage-based       |   $20.00 + 随机赠送 Bonus（有反馈收到 $130）  |    >2    |  
 | [GitHub Copilot Pro](https://github.com/features/copilot/plans) |   $10.00<br/>Temporarilly unavailable  |   Users on a monthly Pro or Pro+ plan will automatically migrate to usage-based billing on June 1, 2026.    |   Usage-based     |   $10   |    1    |          
 | [Zed Pro](https://zed.dev/pricing) |   $10.00  |    Unlimited edit predictions<br/>$5 of tokens included<br/>Usage-based billing beyond $5<br/>14-day free trial. No credit card required.    |   Usage-based     |     $5.00/440万 Claude Sonnet 4.6      |   0.5  | 
-| [Trae Pro](https://www.trae.ai/pricing) |   $10.00  |   $20 Basic usage + Bonus usage<br/>Unlimited Autocomplete<br/>Free for 7 days.     |     Usage-based       |   $20.00 + 随机赠送 Bonus（有反馈收到 $130）  |    >2    |      
 | [CodeBuddy 个人专业版](https://www.codebuddy.cn/pricing) |   ￥59.00  |    每月 2000 Credits（含体验版 500 Credits）    |     Usage-based       |    |        | 
 
 ---
