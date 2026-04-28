@@ -108,7 +108,7 @@
 | [OpenCode Go](https://opencode.ai/go) |   $10.00 (首月 $5)  | $12.00/5h<br/>$30.00/w<br/>$60.00/mo<br/>包含 GLM-5.1, GLM-5, Kimi K2.5, MiMo-V2-Pro, MiMo-V2-Omni, MiniMax M2.5 和 MiniMax M2.7 | Quota-based | $60.00 | 6 |
 | [GitHub Copilot Pro](https://github.com/features/copilot/plans) |   $10.00<br/>Temporarilly unavailable  |   Users on a monthly Pro or Pro+ plan will automatically migrate to usage-based billing on June 1, 2026.    |   Usage-based     |   $10   |    1    |          
 | [Zed Pro](https://zed.dev/pricing) |   $10.00  |    Unlimited edit predictions<br/>$5 of tokens included<br/>Usage-based billing beyond $5<br/>14-day free trial. No credit card required.    |   Usage-based     |     $5.00/440万 Claude Sonnet 4.6      |   0.5  | 
-| [Trae Pro](https://www.trae.ai/pricing) |   $10.00  |   $20 Basic usage + Bonus usage<br/>Unlimited Autocomplete<br/>Free for 7 days.     |     Usage-based       |   $20.00 + 随机赠送 Bonus（有反馈收到 $130）  |    2    |      
+| [Trae Pro](https://www.trae.ai/pricing) |   $10.00  |   $20 Basic usage + Bonus usage<br/>Unlimited Autocomplete<br/>Free for 7 days.     |     Usage-based       |   $20.00 + 随机赠送 Bonus（有反馈收到 $130）  |    >2    |      
 | [CodeBuddy 个人专业版](https://www.codebuddy.cn/pricing) |   ￥59.00  |    每月 2000 Credits（含体验版 500 Credits）    |     Usage-based       |    |        | 
 
 ---
