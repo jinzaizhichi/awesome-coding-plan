@@ -17,10 +17,10 @@
 
 尽量考虑算力相对充裕的厂商，额度再差也比天天 429 报错强，如果难以忍受 Coding Plan 的 429，可以直接选择 DeepSeek V4 Flash 按用量计费
 
-- 🎁 **[小米 MiMo 100T 创造者激励计划](https://100t.xiaomimimo.com/)** 申请通过可领取 Pro/Max Token Plan
+- 🎁 **[小米 MiMo 100T 创造者激励计划](https://100t.xiaomimimo.com/)** 申请通过可领取一个月 Pro/Max Token Plan
 
 - 🎁 **个人想免费白嫖: `NVIDIA NIM` (其他选择 OpenRouter/OpenCode/Ollama Free 模型选择有限)**
-  - **特点**：glm-5.1/glm-4.7/minimax-m2.7 等开源模型，速率限制 Up to 40 rpm 速度无保证，不限量免费使用 [点此直达](https://build.nvidia.com/) 
+  - **特点**：deepseek-v4-pro/glm-5.1/glm-4.7/deepseek-v4-flash/minimax-m2.7 等开源模型，速率限制 Up to 40 rpm 速度无保证，不限量免费使用 [点此直达](https://build.nvidia.com/) 
   - **劣势**：无稳定性保证，首Token时间通常较高，速度因模型而异，部分模型为量化版本，注意甄别，免费不可持续
 
 - 💰 **按用量计费首选：`DeepSeek V4 Flash`**
@@ -49,7 +49,7 @@
 | [ChatGPT Plus](https://chatgpt.com/pricing) (Codex gpt-5.4)           |  $20.00（AppStore土耳其~$11.14，Team拼车最便宜）   | 45-225 Local Messages* / 5h | /    | 490/2000万    |  $11.85   | 0.59    | 3062/1.2亿   |  $74   | 3.7   | 12250/4.8亿  |  $296       | 14.8   |
 | [OpenRouter](https://openrouter.ai) |  部分模型限免   |  hy3-preview/minimax-m2.5/qwen3-coder 限免  |      |         |           |     |        |           |      |     |             |     |
 | [Ollama Free](https://ollama.com/pricing) (minimax-m2.7) |  免费   |   glm-4.7/minimax-m2.7/qwen3.5<br/>预估费用可能有水份，因为测试发现 cache 并未生效 |  /   |  453/1234万   |  $4.19   |  /   |  1365/3716万  |  $12.62   |  /  |  5460/1.48亿 |    $50.48     |  /  |
-| [NVIDIA NIM](https://build.nvidia.com) (glm-4.7) |  免费   |   glm-5.1/glm-4.7/minimax-m2.7 等开源模型 Up to 40 rpm 不限量使用  |      |         |           |     |        |           |      |     |             |     |
+| [NVIDIA NIM](https://build.nvidia.com) (glm-4.7) |  免费   |   deepseek-v4-pro/glm-5.1/glm-4.7/deepseek-v4-flash/minimax-m2.7 等开源模型 Up to 40 rpm 不限量使用  |      |         |           |     |        |           |      |     |             |     |
 | [MiniMax Coding Plan Plus](https://platform.minimaxi.com/subscribe/token-plan) （minimax-m2.7）      |  ￥49.00   | 1500次模型调用 / 5 小时 | 52.6 | 1360/6000万    |  ￥108.60  | 2.22    | 13600/6亿      | ￥1086         | 22.2     | 54400/24亿   |  ￥4344 |   88.65|
 | [Kimi Code Andante](https://www.kimi.com/membership/pricing) （kimi-k2.5）             |  ￥49.00   | Kimi Code 可调用| 27.98| 359/1500万     |  ￥21.46   | 0.44    | 639/2100万    |  ￥30.34   | 0.62   | 2556/8400万   |  ￥121.36    | 2.48    |
 | [Kimi Code Allegretto](https://www.kimi.com/membership/pricing)（kimi-k2.5）           |  ￥199.00  | Kimi Code 20 倍额度  |  27.98   |  1307/6500万       |    ￥89.67       |    0.45     | 9073/3.57亿   |  ￥492.00  | 2.47   | 36292/14.28亿  |  ￥1,968.00  | 9.89    |
