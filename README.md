@@ -58,7 +58,7 @@
 | [GLM Coding Plan Lite](https://bigmodel.cn/glm-coding)（使用海外版订阅测试 glm-5.1）|  ￥49.00   | 3x Claude Pro 用量额度<br/>每 5 小时限额  最多约 80 次 prompts<br/>每周限额 最多约 400 次 prompts |   26.8   |    90/600万     |    ￥11.66       |  0.24   |      600/3200万  |     ￥62.19      |  1.27    |   2400/1.28亿   |       ￥248.76      |   5.08  |
 | [GLM Coding Plan Pro](https://bigmodel.cn/glm-coding)（glm-5.1）|  ￥149.00   | 5x Lite 用量额度<br/>最多约 400 次 prompts<br/>最多约 2000 次 prompts |   26.8   |    450/3000万     |    ￥58.3       |  0.39   |      3000/1.6亿  |     ￥310.95      |   2.09   |   12000/6.4亿   |       ￥1243.8      |   8.35  |
 | [Fireworks Fire Pass](https://app.fireworks.ai/fire-pass)（kimi-k2.5-turbo）|  $7/w*4   |   with no per-token charges for kimi-k2.5-turbo  |      |         |           |     |        |           |      |     |             |     |
-| [Xiaomi MiMo Token Plan Pro](https://platform.xiaomimimo.com/#/token-plan) (mimo-v2.5-pro)|  ￥329.00   | 700,000,000 Credits 套餐月总量<br/>MiMo-V2.5-Pro 256k 上下文： 2x（消耗 1 Token = 2 Credits） |   70   |         |          |    |        |           |      |   3.5亿   |             |     |
+| [Xiaomi MiMo Token Plan Pro](https://platform.xiaomimimo.com/#/token-plan) (mimo-v2.5-pro)|  ￥329.00   | 700,000,000 Credits 套餐月总量<br/>MiMo-V2.5-Pro 256k 上下文： 2x（消耗 1 Token = 2 Credits） |   70   |         |          |    |        |           |      |   3.5亿   |      ￥596       |  2.2   |
 
 
 ## 模型参数数据
