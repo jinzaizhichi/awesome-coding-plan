@@ -19,7 +19,7 @@
 
 - 🎁 **[小米 MiMo 100T 创造者激励计划](https://100t.xiaomimimo.com/)** 申请通过可领取一个月 Standard/Pro/Max Token Plan
 
-- 🎁 **个人想免费白嫖: `NVIDIA NIM` (其他选择 OpenRouter/OpenCode/Ollama Free 模型选择有限)**
+- 🎁 **个人想免费白嫖: `NVIDIA NIM` (其他 OpenRouter/OpenCode/Ollama Free 模型选择有限)**
   - **特点**：deepseek-v4-pro/glm-5.1/glm-4.7/deepseek-v4-flash/minimax-m2.7 等开源模型，速率限制 Up to 40 rpm 速度无保证，不限量免费使用 [点此直达](https://build.nvidia.com/) 
   - **劣势**：无稳定性保证，首Token时间通常较高，速度因模型而异，部分模型为量化版本，注意甄别，免费不可持续
 
@@ -47,7 +47,7 @@
 |--------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|---------|-----------|---------|--------|-----------|--------|--------|-------------|---------|
 | [Claude Pro](https://claude.ai/upgrade) (Claude Code claude-sonnet-4.6)       |  $20.00（AppStore尼日利亚~$11.09)   |   | /    | 298/529万     |  $4.06   | 0.20    | 2709/4809万   |  $36.91  | 1.85   | 10836/1.92亿  |  $147.64       | 7.38   |
 | [ChatGPT Plus](https://chatgpt.com/pricing) (Codex gpt-5.4)           |  $20.00（AppStore土耳其~$11.14，Team拼车最便宜）| 45-225 Local Messages* / 5h<br/>US$100 /月 级用户享有双倍 Codex 配额，优惠活动持续至 2026 年 5 月 31 日 | /    | 490/2000万    |  $11.85   | 0.59    | 3062/1.2亿   |  $74   | 3.7   | 12250/4.8亿  |  $296       | 14.8   |
-| [OpenRouter](https://openrouter.ai) |  部分模型限免   |  hy3-preview/minimax-m2.5/qwen3-coder 限免  |      |         |           |     |        |           |      |     |             |     |
+| [OpenRouter](https://openrouter.ai) |  部分模型限免   |  hy3-preview/minimax-m2.5/qwen3-coder 等模型限免  |      |         |           |     |        |           |      |     |             |     |
 | [Ollama Free](https://ollama.com/pricing) (minimax-m2.7) |  免费   |   glm-4.7/minimax-m2.7/qwen3.5<br/>预估费用可能有水份，因为测试发现 cache 并未生效 |  /   |  453/1234万   |  $4.19   |  /   |  1365/3716万  |  $12.62   |  /  |  5460/1.48亿 |    $50.48     |  /  |
 | [NVIDIA NIM](https://build.nvidia.com) (glm-4.7) |  免费   |   deepseek-v4-pro/glm-5.1/glm-4.7/deepseek-v4-flash/minimax-m2.7 等开源模型 Up to 40 rpm 不限量使用  |      |         |           |     |        |           |      |     |             |     |
 | [MiniMax Coding Plan Plus](https://platform.minimaxi.com/subscribe/token-plan) （minimax-m2.7）      |  ￥49.00   | 1500次模型调用 / 5 小时 | 52.6 | 1360/6000万    |  ￥108.60  | 2.22    | 13600/6亿      | ￥1086         | 22.2     | 54400/24亿   |  ￥4344 |   88.65|
