@@ -19,7 +19,7 @@
 
 - 🎁 **[小米 MiMo 100T 创造者激励计划](https://100t.xiaomimimo.com/)** 申请通过可领取一个月 Standard/Pro/Max Token Plan
 
-- 🎁 **个人想免费白嫖: `NVIDIA NIM` (其他 OpenRouter/OpenCode/Ollama Free 模型选择有限)**
+- 🎁 **个人想免费白嫖: `NVIDIA NIM` (其他 OpenCode/Ollama/OpenRouter Free 模型选择有限)**
   - **特点**：deepseek-v4-pro/glm-5.1/glm-4.7/deepseek-v4-flash/minimax-m2.7 等开源模型，速率限制 Up to 40 rpm 速度无保证，不限量免费使用 [点此直达](https://build.nvidia.com/) 
   - **劣势**：无稳定性保证，首Token时间通常较高，速度因模型而异，部分模型为量化版本，注意甄别，免费不可持续
 
