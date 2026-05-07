@@ -27,7 +27,7 @@
   - **特点**：在认可该模型效果前提下，性价比最高模型，同等 Token 用量下，DeepSeek V4 Flash 的按量计费比大部分 Coding Plan 都便宜。速度稳定在 50 TPS 以上，1M 上下文，缓存读 1/100 的价格领先业界 1/10 一代，百万 Token 输入 1 元，输出 2 元，1 亿 Token 约 9 元（输入输出比 115:1 情况下）；DeepSeek V4 Pro 2026/05/31 23:59 之前 2.5 折，折后相当于 DeepSeek V4 Flash 的三倍价格，也非常划算。
   - **劣势**：不支持多模态
  
-- 🏆 **海外版 Coding 御三家之外性价比较高的选择：Ollama Pro $20/月、OpenCode Go $10/月**
+- 🏆 **海外版 Coding ChatGPT/Claude 之外性价比较高的选择：`Ollama Pro` ($20/月)、`OpenCode Go` ($10/月)**
   - **特点**：Ollama Pro 倍率大约为 10，OpenCode Go 倍率大约为 6，含大部分顶级开源模型，值得一试
   - **劣势**：倍率一般
 
