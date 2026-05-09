@@ -39,9 +39,9 @@
   - **特点**：模型代码能力国内最强
   - **劣势**：GLM 5.1 不支持多模态，¥49 套餐毫无性价比，¥149 套餐倍率也较差，算力紧缺，429 错误更频繁，同时也很难抢到
 
-- 🇺🇸 **海外版 Coding ChatGPT/Claude 之外性价比较高的选择：`Ollama Pro` ($20/月)、`OpenCode Go` ($10/月)**
+- 🇺🇸 **海外版 Coding ChatGPT Plus/Claude Pro 之外性价比较高的选择：`Ollama Pro` ($20/月)、`OpenCode Go` ($10/月)**
   - **特点**：Ollama Pro 倍率大约为 10，OpenCode Go 倍率大约为 6，含大部分顶级开源模型，值得一试
-  - **劣势**：倍率一般
+  - **劣势**：模型和倍率均不如 ChatGPT Plus/Claude Pro
 ---
 
 ## 📊 数据对比 (TL;DR)
