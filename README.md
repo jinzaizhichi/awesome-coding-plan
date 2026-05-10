@@ -15,7 +15,7 @@
 
 ## 💡 核心选购建议
 
-尽量考虑算力相对充裕的厂商，额度再差也比天天 429 报错强，如果难以忍受 Coding Plan 的 429，可以直接选择 DeepSeek V4 Flash 按用量计费
+尽量考虑算力相对充裕的厂商，额度再差也比天天 429 报错强，如果难以忍受 Coding Plan 的 429，可以直接选择 DeepSeek V4 Flash 按用量计费，Token Plan 通常性价比远低于 Coding Plan 一般情况下不推荐（MiniMax 例外）
 
 - 🎁 **[小米 MiMo 100T 创造者激励计划](https://100t.xiaomimimo.com/)** 申请通过可领取一个月 Standard/Pro/Max Token Plan，5 月 28 日 00:00 截止
 
