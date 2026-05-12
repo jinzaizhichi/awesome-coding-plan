@@ -118,3 +118,13 @@
 ---
 
 *如果你也在做 Agent Harness 研究，可以关注我的另外一个项目 [Awesome Agent Harness](https://github.com/mahonzhan/awesome-agent-harness)*
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=mahonzhan%2Fawesome-coding-plan&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=mahonzhan/awesome-coding-plan&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=mahonzhan/awesome-coding-plan&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=mahonzhan/awesome-coding-plan&type=date&legend=top-left" />
+ </picture>
+</a>
