@@ -22,7 +22,7 @@
   - **劣势**：无稳定性保证，首Token时间通常较高，速度因模型而异，部分模型为量化版本，注意甄别，免费不可持续
 
 - 💰 **按用量计费首选：`DeepSeek V4 Flash`**
-  - **特点**：在认可该模型效果前提下，性价比最高模型，同等 Token 用量下，DeepSeek V4 Flash 的按量计费比大部分 Coding Plan 都便宜。速度稳定在 50 TPS 以上，1M 上下文，缓存读 1/100 的价格领先业界 1/10 一代，百万 Token 输入 1 元，输出 2 元，1 亿 Token 约 9 元（输入输出比 115:1 情况下）；DeepSeek V4 Pro 2026/05/31 23:59 之前 2.5 折，折后相当于 DeepSeek V4 Flash 的三倍价格，也非常划算。
+  - **特点**：在认可该模型效果前提下，性价比最高模型，同等 Token 用量下，DeepSeek V4 Flash 的按量计费比大部分 Coding Plan 都便宜。速度稳定在 50 TPS 以上，1M 上下文，缓存读 1/100 的价格领先业界 1/10 一代，百万 Token 输入 1 元，输出 2 元，1 亿 Token 约 9 元（输入输出比 115:1 情况下）；DeepSeek V4 Pro 相当于 DeepSeek V4 Flash 的三倍价格，也非常划算。
   - **劣势**：不支持多模态
  
 - 🇺🇸 **海外版顶级商业模型 Coding ChatGPT Plus/Claude Pro 之外性价比较高的选择：`Ollama Pro` ($20/月)、`OpenCode Go` ($10/月)**
