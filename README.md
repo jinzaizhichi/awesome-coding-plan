@@ -115,7 +115,7 @@
 | [Trae Pro](https://www.trae.ai/pricing) |   $10.00 (Free for 7 days)  |   $20 Basic usage + Bonus usage<br/>Unlimited Autocomplete     |     Usage-based       |   $20.00 + 随机赠送 Bonus（有反馈收到 $130）  |    >2    |  
 | [GitHub Copilot Pro](https://github.com/features/copilot/plans) |   $10.00  |   $15 monthly total credits for Pro    |   Usage-based     |   $15   |    1.5    |          
 | [Zed Pro](https://zed.dev/pricing) |   $10.00  |    Unlimited edit predictions<br/>$5 of tokens included<br/>Usage-based billing beyond $5<br/>14-day free trial. No credit card required.    |   Usage-based     |     $5.00/440万 Claude Sonnet 4.6      |   0.5  | 
-| [CodeBuddy 个人专业版](https://www.codebuddy.cn/pricing) |   ￥59.00  |    每月 2000 Credits（含体验版 500 Credits）    |     Usage-based       |    |        | 
+| [CodeBuddy 个人专业版](https://www.codebuddy.cn/pricing) |   ￥59.00  |    每月 2000 Credits（含体验版 500 Credits）<br/>限时活动：下单当月同时加赠 2000 Credits 一次性到账（赠送部分有效期为自到账日起1个月）    |     Usage-based       |    |        | 
 
 ---
 
