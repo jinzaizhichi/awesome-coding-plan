@@ -121,7 +121,7 @@
 
 ## 非严谨效果测试
 
-找了一个 gemini-3.5-flash BUG 解决失败的烂摊子让其他模型接手修复，以下是各个模型的完成情况，可作为日常编码模型选择的参考（测试轮次不够多，部分模型效果评估可能存在偏差）。
+找了一个 gemini-3.5-flash 一个关于网络代理协议不匹配 BUG 解决失败的烂摊子让其他模型接手修复，以评估复杂场景下的问题解决能力，以下是各个模型的完成情况，可作为日常编码模型选择的参考（测试轮次不够多，部分模型效果评估可能存在偏差）。
 
 | 模型                   | Agent Harness | Tokens    | 成本 ($) | 耗时    | 通过率   |
 | -------------------- | ------------- | --------- | ------ | ----- | ----- |
@@ -131,13 +131,14 @@
 | gpt-5.6-terra high   | codex         | 590,028   | 0.50   | 5min  | ⚠️2/3 |
 | gpt-5.5 high         | codex         | 1,072,688 | 1.29   | 6min  | ⚠️2/3 |
 | claude-fabel-5 high  | claude code   | 3,482,397 | 8.25   | 18min | ⚠️2/3 |
-| deepseek-v4-pro max  | opencode      | 591,738   | 0.05   | 5min  | ❌1/3  |
 | gpt-5.6-luna high    | codex         | 1,321,527 | 0.40   | 7min  | ❌1/3  |
 | kimi-k2.7-code       | opencode      | 4,051,232 | 0.94   | 15min | ❌1/3  |
+| deepseek-v4-pro max  | opencode      | 591,738   | 0.05   | 5min  | ❌0/3  |
 | claude-sonnet-5 high | claude code   | 1,070,526 | 0.56   | 5min  | ❌0/3  |
 | gpt-5.4 high         | codex         | 2,879,757 | 1.60   | 12min | ❌0/3  |
 | glm-5.2 max          | opencode      | 8,145,637 | 2.62   | 42min | ❌0/3  |
 | qwen-3.7-max         | opencode      | 401,720   | 0.49   | 3min  | ❌0/3  |
+
 
 
 ---
