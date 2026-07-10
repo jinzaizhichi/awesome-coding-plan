@@ -119,6 +119,27 @@
 | [Zed Pro](https://zed.dev/pricing) |   $10.00  |    Unlimited edit predictions<br/>$5 of tokens included<br/>Usage-based billing beyond $5<br/>14-day free trial. No credit card required.    |   Usage-based     |     $5.00/440万 Claude Sonnet 4.6      |   0.5  | 
 | [CodeBuddy 个人专业版](https://www.codebuddy.cn/pricing) |   ￥59.00  |    每月 2000 Credits（含体验版 500 Credits）<br/>限时活动：下单当月同时加赠 2000 Credits 一次性到账（赠送部分有效期为自到账日起1个月）    |     Usage-based       |    |        | 
 
+## 非严谨效果测试
+
+找了一个 gemini-3.5-flash BUG 解决失败的烂摊子场景让其他模型接手修复，以下是各个模型的完成情况：
+
+| 模型                   | Agent Harness | Tokens    | 成本 ($) | 耗时    | 通过率   |
+| -------------------- | ------------- | --------- | ------ | ----- | ----- |
+| grok-4.5 high        | grok build    | 1,005,853 | ~0.5   | 2min  | ✅3/3  |
+| gpt-5.6-sol high     | codex         | 1,004,195 | 1.09   | 11min | ✅3/3  |
+| claude-opus-4.8 high | claude code   | 2,008,418 | 2.60   | 9min  | ✅3/3  |
+| gpt-5.6-terra high   | codex         | 590,028   | 0.50   | 5min  | ⚠️2/3 |
+| gpt-5.5 high         | codex         | 1,072,688 | 1.29   | 6min  | ⚠️2/3 |
+| claude-fabel-5 high  | claude code   | 3,482,397 | 8.25   | 18min | ⚠️2/3 |
+| deepseek-v4-pro max  | opencode      | 591,738   | 0.05   | 5min  | ❌1/3  |
+| gpt-5.6-luna high    | codex         | 1,321,527 | 0.40   | 7min  | ❌1/3  |
+| kimi-k2.7-code       | opencode      | 4,051,232 | 0.94   | 15min | ❌1/3  |
+| claude-sonnet-5 high | claude code   | 1,070,526 | 0.56   | 5min  | ❌0/3  |
+| gpt-5.4 high         | codex         | 2,879,757 | 1.60   | 12min | ❌0/3  |
+| glm-5.2 max          | opencode      | 8,145,637 | 2.62   | 42min | ❌0/3  |
+| qwen-3.7-max         | opencode      | 401,720   | 0.49   | 3min  | ❌0/3  |
+
+
 ---
 
 *如果你也在做 Agent Harness 研究，可以关注我的另外一个项目 [Awesome Agent Harness](https://github.com/mahonzhan/awesome-agent-harness)*
