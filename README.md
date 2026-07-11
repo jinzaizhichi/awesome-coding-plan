@@ -119,9 +119,9 @@
 | [Zed Pro](https://zed.dev/pricing) |   $10.00  |    Unlimited edit predictions<br/>$5 of tokens included<br/>Usage-based billing beyond $5<br/>14-day free trial. No credit card required.    |   Usage-based     |     $5.00/440万 Claude Sonnet 4.6      |   0.5  | 
 | [CodeBuddy 个人专业版](https://www.codebuddy.cn/pricing) |   ￥59.00  |    每月 2000 Credits（含体验版 500 Credits）<br/>限时活动：下单当月同时加赠 2000 Credits 一次性到账（赠送部分有效期为自到账日起1个月）    |     Usage-based       |    |        | 
 
-## 非严谨效果测试
+## 非严谨能力测试
 
-找了一个 gemini-3.5-flash 一个关于网络代理协议不匹配 BUG 解决失败的烂摊子让其他模型接手修复，以下是各个模型的完成情况：
+1. 找了一个 gemini-3.5-flash 一个关于网络代理协议不匹配 BUG 解决失败的烂摊子让其他模型接手修复，以下是各个模型的完成情况：
 
 | 模型                   | Agent Harness | Tokens    | 成本 ($) | 耗时    | 通过率   |
 | -------------------- | ------------- | --------- | ------ | ----- | ----- |
