@@ -134,6 +134,7 @@
 | gpt-5.5 high         | codex         | 1,072,688 | 1.29   | 6min  | ⚠️2/3 |
 | claude-fabel-5 high  | claude code   | 3,482,397 | 8.25   | 18min | ⚠️2/3 |
 | gpt-5.6-luna high    | codex         | 1,321,527 | 0.40   | 7min  | ❌1/3  |
+| kimi-k3              | opencode      | 2,228,706 | 1.47   | 28min | ❌1/3  |
 | kimi-k2.7-code       | opencode      | 4,051,232 | 0.94   | 15min | ❌1/3  |
 | deepseek-v4-pro max  | opencode      | 591,738   | 0.05   | 5min  | ❌0/3  |
 | claude-sonnet-5 high | claude code   | 1,070,526 | 0.56   | 5min  | ❌0/3  |
