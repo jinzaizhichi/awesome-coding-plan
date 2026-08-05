@@ -130,7 +130,7 @@
 
 | 模型                         | Agent Harness | Tokens     | 成本 ($) | 耗时      | 通过率   |
 | -------------------------- | ------------- | ---------- | ------ | ------- | ----- |
-| deepseek-v4-flash 正式版 high | opencode      | 5,324,169  | 0.04   | 12min   | ✅3/3  |
+| deepseek-v4-flash-0731 high | opencode      | 5,324,169  | 0.04   | 12min   | ✅3/3  |
 | grok-4.5 high              | grok build    | 1,005,853  | ~0.5   | 2min    | ✅3/3  |
 | gpt-5.6-sol high           | codex         | 1,004,195  | 1.09   | 11min   | ✅3/3  |
 | claude-opus-4.8 high       | claude code   | 2,008,418  | 2.60   | 9min    | ✅3/3  |
