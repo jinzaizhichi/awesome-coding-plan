@@ -1,0 +1,46 @@
+# ── Site ──────────────────────────────────────────────────────────────────────
+title: 🚀 Awesome Coding Plan
+description: 各大模型 / 云厂商 Coding Plan 实际价值对比
+lang: zh-CN
+
+# 项目页地址（用户名.github.io/<仓库名>）。若之后绑定自定义域名，
+# 把 url 换成域名并将 baseurl 置为 ""
+url: https://mahonzhan.github.io
+baseurl: /awesome-coding-plan
+repository: mahonzhan/awesome-coding-plan
+
+# GitHub Pages 内置主题
+theme: jekyll-theme-cayman
+
+# README.md 作为站点首页（GitHub Pages 默认启用 jekyll-readme-index）
+plugins:
+  - jekyll-readme-index
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 不把 README.md 原样复制到站点根目录
+readme_index:
+  remove_originals: true
+
+# 让 README 生成的首页（以及后续任何页面）都套用自定义 layout
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# ── Markdown ──────────────────────────────────────────────────────────────────
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  auto_ids: true
+
+# ── 构建 ──────────────────────────────────────────────────────────────────────
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - LICENCE
+  - .github

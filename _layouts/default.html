@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'zh-CN' }}" data-theme-boot>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+
+    {% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚀</text></svg>">
+
+    <script>
+      // 尽早应用主题，避免首屏闪白
+      (function () {
+        try {
+          var t = localStorage.getItem('acp-theme');
+          if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+        } catch (e) {}
+        document.documentElement.removeAttribute('data-theme-boot');
+      })();
+    </script>
+  </head>
+
+  <body>
+    <a id="skip-to-content" href="#content">跳到正文</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+
+      <div class="header-actions">
+        {% assign repo_url = site.github.repository_url | default: nil %}
+        {% if repo_url == nil and site.repository %}
+          {% assign repo_url = 'https://github.com/' | append: site.repository %}
+        {% endif %}
+        {% if repo_url %}
+          <a href="{{ repo_url }}" class="btn" rel="noopener">在 GitHub 上查看</a>
+        {% endif %}
+        <button type="button" class="btn btn-theme" id="theme-toggle"
+                aria-label="切换深浅色主题" title="切换深浅色主题">
+          <span class="theme-icon" aria-hidden="true"></span>
+          <span class="theme-label">主题</span>
+        </button>
+      </div>
+    </header>
+
+    <div class="page-wrap">
+      <nav class="toc" id="toc" aria-label="目录">
+        <div class="toc-title">目录</div>
+        <ul class="toc-list" id="toc-list"></ul>
+      </nav>
+
+      <main id="content" class="main-content" role="main">
+        {{ content }}
+
+        <footer class="site-footer">
+          {% if repo_url %}
+            <span class="site-footer-owner">
+              数据与勘误请到 <a href="{{ repo_url }}" rel="noopener">{{ site.repository | default: site.github.repository_nwo }}</a>
+              提 Issue / PR。
+            </span>
+          {% endif %}
+          <span class="site-footer-credits">
+            内容采用 <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> 许可 ·
+            基于 <a href="https://pages.github.com">GitHub Pages</a> 与 Jekyll 构建
+          </span>
+        </footer>
+      </main>
+    </div>
+
+    <button type="button" class="to-top" id="to-top" aria-label="回到顶部" title="回到顶部">↑</button>
+
+    <script src="{{ '/assets/js/site.js' | relative_url }}"></script>
+  </body>
+</html>
